@@ -42,6 +42,6 @@ El video debe reflejar:
 
 A continuación se podrán incorporar nuevos materiales de apoyo:
 
-- **Parte 3:** [Pendiente de agregar](#)
-- **Parte 4:** [Pendiente de agregar](#)
+- **Parte 1:** https://github.com/DeyviJoshMac/INF101/blob/main/parte1%20PROPUESTO.xlsx)
+- **Parte 2:** https://github.com/DeyviJoshMac/INF101/blob/main/parte1%20PROPUESTO.xlsx(#)
 - **Material complementario:** [Pendiente de agregar](#)
